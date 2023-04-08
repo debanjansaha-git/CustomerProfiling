@@ -21,6 +21,8 @@ A detailed description of the data dictionary is mentioned in our project report
 ---
 ## Objective
 
+![image](https://user-images.githubusercontent.com/57592047/230706259-35df1e3c-2303-4b9b-a77d-d92d9155ab2c.png)
+
 We chose this dataset to handle the different prevalent scenarios that might considerably benefit holistic client profiling using Machine Learning in retail purchasing and marketing. In this project, we don't just develop one model with a specific goal in mind; instead, we look at numerous sorts of modeling and data mining techniques that can be performed using any transactional history dataset as well as customer demographic data. Customer demographics data is very sensitive for every organization because it contains a large amount of PII data. This is the only publically available dataset that provided us with all of the information we needed for our data mining problem. Our main goal was to make this project as much generalized as possible, and we aim to carry forward the learnings from this project into our future endeavors.
 
 
