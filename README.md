@@ -1,5 +1,5 @@
 ---
-# Customer Profiling & Lifetime Value Visualization
+# Customer Profiling & Lifetime Value
 ---
 ## Authors
   1. Debanjan Saha (saha.deb@northeastern.edu)
